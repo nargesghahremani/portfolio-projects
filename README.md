@@ -5,7 +5,7 @@ A curated collection of frontend projects, templates, and UI components demonstr
 ## 🚀 Projects
 
 ### 1. پروژه ۶ دونگ
-![۶ دونگ](./projects/6dong/6dong-homepage.png)
+![۶ دونگ](./projects/6dong/6dong_index.html.png)
 
 **توضیحات:** پروژه در مورد مدیریت اگهی های املاک  
 **تکنولوژی‌ها:** jQuery, Bootstrap CSS  
