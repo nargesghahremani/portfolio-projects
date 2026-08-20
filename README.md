@@ -13,16 +13,9 @@ A curated collection of frontend projects, templates, and UI components demonstr
 
 ---
 
-### 2. پروژه بعدی
-![پروژه بعدی](./projects/next-project/screenshot.png)
-
-**توضیحات:** [توضیح مختصر پروژه]  
-**تکنولوژی‌ها:** ...  
-**لینک:** [مشاهده پروژه](./projects/next-project/README.md)
 
 ---
 
 ## 📬 تماس با من
 - **ایمیل:** nargesghahremani14@gmail.com
-- **لینکدین:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 - **گیت‌هاب:** [github.com/nargesghahremani](https://github.com/your-username)
